@@ -1,0 +1,25 @@
+ .app{
+    padding: 50px;
+}
+/* form{
+    padding: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    input{
+      height: 30px;
+      border: 2px solid green;
+    }
+
+}
+h1{
+    color: aqua;
+    text-align: center;
+} */ 
+.active{
+    background-color: white;
+    color: black;
+  }
+  .not-active{
+    background-color: black;
+    color: white;
+  }
